@@ -1,0 +1,14 @@
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+
+}
+
+input{
+    width: 600px;
+    height: 25px;
+    position: relative;
+    top: 400px;
+}
